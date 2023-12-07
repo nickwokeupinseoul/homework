@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.3.1-0ubuntu1~20.04.1 on Thu, 23 Nov 2023 07:20:22 +0000
+
+# User rules for adminptk
+adminptk ALL=(ALL) NOPASSWD:ALL
