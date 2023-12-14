@@ -55,5 +55,5 @@ systemd-coredump:!!::
 netdev:!::
 adminptk:!::
 tomcat:!!::
-ssl-cert:!::
+ssl-cert:!::postgres
 postgres:!::

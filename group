@@ -57,3 +57,4 @@ adminptk:x:1001:
 tomcat:x:998:
 ssl-cert:x:115:postgres
 postgres:x:116:
+docker:x:117:
